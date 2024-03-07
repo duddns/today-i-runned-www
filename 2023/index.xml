@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2023s on Today I Runned</title>
+    <link>/2023/</link>
+    <description>Recent content in 2023s on Today I Runned</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Dec 2023 21:00:00 +0900</lastBuildDate>
+    <atom:link href="/2023/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>12월 29일 Today I Runned</title>
+      <link>/2023/12/2023-12-29-today-i-runned/</link>
+      <pubDate>Fri, 29 Dec 2023 21:00:00 +0900</pubDate>
+      <guid>/2023/12/2023-12-29-today-i-runned/</guid>
+      <description>아침 러닝 점심 러닝 </description>
+    </item>
+    <item>
+      <title>12월 27일 Today I Runned</title>
+      <link>/2023/12/2023-12-27-today-i-runned/</link>
+      <pubDate>Wed, 27 Dec 2023 21:00:00 +0900</pubDate>
+      <guid>/2023/12/2023-12-27-today-i-runned/</guid>
+      <description>아침 러닝 점심 러닝 </description>
+    </item>
+    <item>
+      <title>12월 26일 Today I Runned</title>
+      <link>/2023/12/2023-12-26-today-i-runned/</link>
+      <pubDate>Tue, 26 Dec 2023 21:00:00 +0900</pubDate>
+      <guid>/2023/12/2023-12-26-today-i-runned/</guid>
+      <description>아침 러닝 </description>
+    </item>
+    <item>
+      <title>12월 08일 Today I Runned</title>
+      <link>/2023/12/2023-12-08-today-i-runned/</link>
+      <pubDate>Fri, 08 Dec 2023 19:00:00 +0900</pubDate>
+      <guid>/2023/12/2023-12-08-today-i-runned/</guid>
+      <description>아침 러닝 점심 러닝 </description>
+    </item>
+  </channel>
+</rss>
