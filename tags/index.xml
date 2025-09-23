@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Today I Runned</title>
-    <link>/tags/</link>
+    <link>https://tir.dont.pe.kr/tags/</link>
     <description>Recent content in Tags on Today I Runned</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>ko-kr</language>
     <lastBuildDate>Tue, 23 Sep 2025 00:00:00 +0900</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tir.dont.pe.kr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Today I Runned</title>
-      <link>/tags/today-i-runned/</link>
+      <link>https://tir.dont.pe.kr/tags/today-i-runned/</link>
       <pubDate>Tue, 23 Sep 2025 00:00:00 +0900</pubDate>
-      <guid>/tags/today-i-runned/</guid>
+      <guid>https://tir.dont.pe.kr/tags/today-i-runned/</guid>
       <description></description>
     </item>
   </channel>
